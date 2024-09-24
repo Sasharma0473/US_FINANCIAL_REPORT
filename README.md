@@ -1,5 +1,5 @@
 # US_FINANCIAL_REPORT
-Hi There!!! This is a Created a fully automated dashboard on financial Data in which I am taking the data 
+Hi There!!! This is a fully automated dashboard on financial Data in which I am taking the data 
 from the multiple fields agents in outlook, 
 Creating a automated way to download the file in the google drive using Power Automate, 
 With the help of Google drive API(GCP) and Python I have transported the Data in PowerBI. 
